@@ -6,6 +6,8 @@
 
 [About](#about) · [Expertise](#expertise) · [Selected work](#selected-work) · [Engineering approach](#engineering-approach) · [Tiếng Việt](#tiếng-việt) · [Connect](#connect)
 
+[Personal portfolio ↗](https://tranngochien89.github.io/tranngochien89/)
+
 </div>
 
 ## About
