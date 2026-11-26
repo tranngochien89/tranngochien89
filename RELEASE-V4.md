@@ -1,6 +1,6 @@
 # V4 release checklist
 
-- V3.3: high-resolution portrait and product screenshots still pending; existing labeled demo images retained.
+- V3.3: eight scalable 1200 × 675 project UI concepts, four engineering illustrations, favicon and SVG social-cover artwork implemented. Project concepts contain sample data, not actual screenshots. High-resolution portrait, verified product screenshots and raster social-sharing image remain pending. Browser QA remains required.
 - V3.4: technology icons via Simple Icons CDN with text fallback; verify actual icon availability.
 - V3.5: practice areas published; verified employment dates and titles pending.
 - V3.6: project-specific proposed acceptance checks added; actual outcomes pending.
