@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tranngochien89.github.io/tranngochien89/sitemap.xml
